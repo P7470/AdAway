@@ -112,8 +112,3 @@ AdAway requires the following permissions:
 * `REQUEST_INSTALL_PACKAGES` to update the application using the builtin updater
 * `QUERY_ALL_PACKAGES` to let the user pick the applications to exclude from VPN
 
-## Licenses
-
-AdAway is licensed under the GPLv3+.  
-The file LICENSE includes the full license text.
-For more details, check [the license notes](LICENSE.md).
